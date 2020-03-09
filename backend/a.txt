@@ -1,10 +1,3 @@
 这是后端文件
-<<<<<<< HEAD
-over
-=======
 
-添加一行sd
-kakakakakakakakaakkaka
-
->>>>>>> 051fd21a366b7551a3da1a34c4d461a15e812cba
 
