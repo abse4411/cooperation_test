@@ -3,15 +3,4 @@
 添加一行sd
 
 
-~~~~~
-
-shijian时2
-<<<<<<< HEAD
-asdsadasdasdasdasdasdasd
-
-=======
-sddfsf
->>>>>>> dd4051961f51a88d48b81b73a1e74d2cfe4b2849
-
-XXXXXXXXXXXXXX
-ASDAS d asd
+~~~~~e
